@@ -9,7 +9,6 @@
 - 🏢 I'm currently doing an internship as a **Junior Software Engineer** at [NEONHOUSELED SAC].
 - 🏢 Former **Software Engineer** 
 - 🎓 Studies for Software Engineering at [ Universidad José Faustino Sánchez Carrión]([https://www.londonmet.ac.uk/](https://unjfsc.edu.pe))
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
 - 🏡'Lives in **Dalugama Sri Lanka**
 - ⚡ Fun Facts: 🍕, 🏀, 🎮, 🎬, 🚲.
 
