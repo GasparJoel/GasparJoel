@@ -36,7 +36,7 @@
 ### Frontend development:
 &emsp;
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,express,nodejs,figma,scss,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,express,nodejs,figma,scss,dotnet,tailwind)](https://skillicons.dev)
 
 
 ### Misc tools:
@@ -60,17 +60,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
-### SRE & DevOps:
-&emsp;
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
-![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Consul](https://img.shields.io/badge/-Consul-000?&logo=Consul)
-![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
-![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
-![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
-![Chef](https://img.shields.io/badge/-Chef-000?&logo=Chef)
+
 
 
 &emsp;
